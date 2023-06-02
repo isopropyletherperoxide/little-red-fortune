@@ -5,7 +5,7 @@ Source for translation: https://www.marxists.org/reference/archive/mao/works/red
 ### Usage 
 
 ```bash 
-fortune quotations_from_mao_zedong
+fortune quotations_from_mao_zedong/
 ```
 
 
